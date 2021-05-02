@@ -86,4 +86,4 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-This project is [GPL-3.0](https://github.com/curant/data-anonymizer/blob/master/LICENSE) licensed.
+This project is [GPL-3.0](https://github.com/woutmeijer/data-anonymizer/blob/master/LICENSE) licensed.
